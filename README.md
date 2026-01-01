@@ -133,4 +133,8 @@ Each folder contains:
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
