@@ -74,6 +74,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -142,4 +143,9 @@ Each folder contains:
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
