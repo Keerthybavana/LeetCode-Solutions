@@ -30,6 +30,7 @@ Each folder contains:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -65,6 +66,7 @@ Each folder contains:
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
