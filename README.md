@@ -31,6 +31,7 @@ Each folder contains:
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -147,6 +148,7 @@ Each folder contains:
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
