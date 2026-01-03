@@ -109,6 +109,7 @@ Each folder contains:
 | [0213-house-robber-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
