@@ -52,6 +52,7 @@ Each folder contains:
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1390-four-divisors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1534-count-good-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -203,6 +204,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Simulation
 |  |
 | ------- |
