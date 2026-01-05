@@ -64,6 +64,7 @@ Each folder contains:
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
 | ------- |
