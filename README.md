@@ -37,6 +37,7 @@ Each folder contains:
 | [0042-trapping-rain-water](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -123,6 +124,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
