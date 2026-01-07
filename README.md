@@ -30,6 +30,7 @@ Each folder contains:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
@@ -115,6 +116,7 @@ Each folder contains:
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
