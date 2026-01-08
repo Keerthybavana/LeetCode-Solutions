@@ -55,6 +55,7 @@ Each folder contains:
 | [0303-range-sum-query-immutable](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
