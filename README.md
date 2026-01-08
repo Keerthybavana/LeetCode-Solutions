@@ -48,6 +48,7 @@ Each folder contains:
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -145,6 +146,7 @@ Each folder contains:
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 ## Divide and Conquer
 |  |
@@ -222,6 +224,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -276,4 +279,8 @@ Each folder contains:
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
