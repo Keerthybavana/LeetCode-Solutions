@@ -231,6 +231,7 @@ Each folder contains:
 | [1390-four-divisors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Greedy
 |  |
 | ------- |
@@ -283,4 +284,5 @@ Each folder contains:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
