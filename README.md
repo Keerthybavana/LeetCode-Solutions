@@ -72,6 +72,7 @@ Each folder contains:
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1390-four-divisors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
