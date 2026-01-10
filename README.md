@@ -61,6 +61,7 @@ Each folder contains:
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -128,6 +129,7 @@ Each folder contains:
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -150,6 +152,7 @@ Each folder contains:
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -218,6 +221,7 @@ Each folder contains:
 | ------- |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
