@@ -81,6 +81,7 @@ Each folder contains:
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1816-truncate-sentence](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1929-concatenation-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -272,6 +273,7 @@ Each folder contains:
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
