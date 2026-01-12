@@ -224,6 +224,7 @@ Each folder contains:
 | [0014-longest-common-prefix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1108-defanging-an-ip-address](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
