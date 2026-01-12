@@ -153,6 +153,7 @@ Each folder contains:
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3794-reverse-string-prefix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Each folder contains:
 | [3110-score-of-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
