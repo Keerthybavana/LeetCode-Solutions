@@ -94,6 +94,7 @@ Each folder contains:
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Each folder contains:
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -344,4 +346,12 @@ Each folder contains:
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
