@@ -236,6 +236,7 @@ Each folder contains:
 | [0125-valid-palindrome](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1678-goal-parser-interpretation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -279,6 +280,7 @@ Each folder contains:
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1154-day-of-the-year](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
