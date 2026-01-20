@@ -255,6 +255,7 @@ Each folder contains:
 | [1816-truncate-sentence](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -267,6 +268,7 @@ Each folder contains:
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Counting
 |  |
@@ -320,6 +322,7 @@ Each folder contains:
 | ------- |
 | [0037-sudoku-solver](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
