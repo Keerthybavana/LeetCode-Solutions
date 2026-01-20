@@ -96,6 +96,7 @@ Each folder contains:
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Binary Search
@@ -266,6 +267,7 @@ Each folder contains:
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Counting
 |  |
 | ------- |
