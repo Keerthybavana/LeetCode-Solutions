@@ -275,6 +275,7 @@ Each folder contains:
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -308,6 +309,7 @@ Each folder contains:
 | [1154-day-of-the-year](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
