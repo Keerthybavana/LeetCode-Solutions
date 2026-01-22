@@ -319,6 +319,7 @@ Each folder contains:
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
