@@ -99,6 +99,7 @@ Each folder contains:
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
