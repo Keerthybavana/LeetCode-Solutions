@@ -97,6 +97,7 @@ Each folder contains:
 | [2373-largest-local-values-in-a-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -153,6 +154,7 @@ Each folder contains:
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -282,6 +284,7 @@ Each folder contains:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
