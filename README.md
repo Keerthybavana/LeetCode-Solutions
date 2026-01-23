@@ -230,6 +230,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Each folder contains:
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1603-design-parking-system](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -354,6 +356,7 @@ Each folder contains:
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
