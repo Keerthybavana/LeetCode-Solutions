@@ -1,26 +1,16 @@
 class Solution {
-    public int[] findErrorNums(int[] nums) {
-        int k=0;
-        int n=nums.length;
-        for(int i=0;i<nums.length;i++){
-            for(int j=0;j<nums.length;j++){
-                if(i!=j && nums[i]==nums[j]){
-                    k=nums[j];
-                    nums[j]=0;
-                }
-            }
+    public int[] findErrorNums(int[] arr) {
+        int[] nums=new int[2];
+        int[] freq=new int[arr.length+1];
+        for(int i=0;i<arr.length;i++){
+            freq[arr[i]]++;
         }
-        int sum=0;
-        for(int num:nums){
-            sum+=num;
+        for(int i=1;i<freq.length;i++){
+            if(freq[i]>1) nums[0]=i;
         }
-        int[] arr=new int[2];
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==0){
-                arr[0]=k;
-                arr[1]=(n*(n+1)/2)-sum;
-            }
+         for(int i=1;i<freq.length;i++){
+            if(freq[i]==0) nums[1]=i;
         }
-        return arr;
+        return nums;
     }
 }
