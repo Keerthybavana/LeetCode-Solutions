@@ -70,6 +70,7 @@ Each folder contains:
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1200-minimum-absolute-difference](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -192,6 +193,7 @@ Each folder contains:
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [1200-minimum-absolute-difference](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
