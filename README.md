@@ -59,6 +59,7 @@ Each folder contains:
 | [0312-burst-balloons](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
@@ -128,6 +129,7 @@ Each folder contains:
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -154,6 +156,7 @@ Each folder contains:
 | [0242-valid-anagram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -176,6 +179,7 @@ Each folder contains:
 | [0125-valid-palindrome](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -192,6 +196,7 @@ Each folder contains:
 | [0242-valid-anagram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
