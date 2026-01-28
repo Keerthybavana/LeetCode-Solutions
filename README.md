@@ -456,4 +456,8 @@ Each folder contains:
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
