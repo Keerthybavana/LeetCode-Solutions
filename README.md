@@ -336,6 +336,7 @@ Each folder contains:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -454,6 +455,7 @@ Each folder contains:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -485,4 +487,8 @@ Each folder contains:
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
