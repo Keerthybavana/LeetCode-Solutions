@@ -1,17 +1,19 @@
 class Solution {
-    public int minimumCost(int[] A) {
-        int a = 51, b = 51;
-
-        for (int i = 1; i < A.length; i++) {
-            if (A[i] < a) {
-                b = a;
-                a = A[i];
-            } else if (A[i] < b)
-                b = A[i];
-
-            if (a == 1 && b == 1) break;
+    public int minimumCost(int[] nums) {
+        if(nums.length<3) return 0;
+        if(nums.length==3) return nums[1]+nums[2]+nums[0];
+        int min=Integer.MAX_VALUE;
+        int minn=Integer.MAX_VALUE;
+        int k=0;
+        for(int i=1;i<nums.length;i++){
+            if(min>nums[i]){
+                min=nums[i];
+                k=i;
+            }
         }
-
-        return A[0] + a + b;
+        for(int i=1;i<nums.length;i++){
+            if(minn>nums[i] && min<=nums[i] && k!=i) minn=nums[i];
+        }
+        return nums[0]+min+minn;
     }
 }
