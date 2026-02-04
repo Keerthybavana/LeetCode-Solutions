@@ -120,6 +120,7 @@ Each folder contains:
 | [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Each folder contains:
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3640-trionic-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
