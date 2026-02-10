@@ -124,6 +124,7 @@ Each folder contains:
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Each folder contains:
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
@@ -246,6 +248,7 @@ Each folder contains:
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,6 +293,7 @@ Each folder contains:
 | [1004-max-consecutive-ones-iii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -504,6 +508,7 @@ Each folder contains:
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |
