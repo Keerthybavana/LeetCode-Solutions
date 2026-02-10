@@ -294,6 +294,7 @@ Each folder contains:
 | [1004-max-consecutive-ones-iii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
@@ -408,6 +409,7 @@ Each folder contains:
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
