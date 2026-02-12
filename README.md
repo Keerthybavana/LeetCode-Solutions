@@ -50,6 +50,7 @@ Each folder contains:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -219,6 +220,7 @@ Each folder contains:
 | [0047-permutations-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -321,6 +323,7 @@ Each folder contains:
 | [0067-add-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -433,6 +436,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
