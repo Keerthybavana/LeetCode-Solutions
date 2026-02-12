@@ -188,6 +188,7 @@ Each folder contains:
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
@@ -244,6 +245,7 @@ Each folder contains:
 | [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Each folder contains:
 | [3280-convert-date-to-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
@@ -382,6 +385,7 @@ Each folder contains:
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
 | ------- |
