@@ -331,6 +331,7 @@ Each folder contains:
 | [0316-remove-duplicate-letters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
@@ -590,4 +591,8 @@ Each folder contains:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
