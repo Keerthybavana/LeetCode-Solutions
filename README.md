@@ -254,6 +254,7 @@ Each folder contains:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -369,6 +370,7 @@ Each folder contains:
 | ------- |
 | [0029-divide-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
