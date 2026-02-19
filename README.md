@@ -208,6 +208,7 @@ Each folder contains:
 | [0151-reverse-words-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0696-count-binary-substrings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -334,6 +335,7 @@ Each folder contains:
 | [0316-remove-duplicate-letters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
