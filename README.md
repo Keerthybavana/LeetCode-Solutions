@@ -82,6 +82,7 @@ Each folder contains:
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -236,6 +237,7 @@ Each folder contains:
 | [0761-special-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [1200-minimum-absolute-difference](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1859-sorting-the-sentence](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -388,6 +390,7 @@ Each folder contains:
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -403,6 +406,7 @@ Each folder contains:
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-design-parking-system](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
