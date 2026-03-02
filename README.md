@@ -88,6 +88,7 @@ Each folder contains:
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -162,6 +163,7 @@ Each folder contains:
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -468,6 +470,7 @@ Each folder contains:
 | [1221-split-a-string-in-balanced-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
