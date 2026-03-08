@@ -103,6 +103,7 @@ Each folder contains:
 | [1929-concatenation-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -191,6 +192,7 @@ Each folder contains:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2325-decode-the-message](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -366,6 +368,7 @@ Each folder contains:
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -493,6 +496,7 @@ Each folder contains:
 | ------- |
 | [0037-sudoku-solver](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Heap (Priority Queue)
