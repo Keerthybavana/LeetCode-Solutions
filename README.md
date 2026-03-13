@@ -72,6 +72,7 @@ Each folder contains:
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -163,6 +164,7 @@ Each folder contains:
 | [0048-rotate-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -217,6 +219,7 @@ Each folder contains:
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -400,6 +403,7 @@ Each folder contains:
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -511,6 +515,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
