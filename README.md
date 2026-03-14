@@ -185,6 +185,7 @@ Each folder contains:
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -312,6 +313,7 @@ Each folder contains:
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1603-design-parking-system](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
@@ -350,6 +352,7 @@ Each folder contains:
 | [0316-remove-duplicate-letters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0696-count-binary-substrings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -645,5 +648,6 @@ Each folder contains:
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
