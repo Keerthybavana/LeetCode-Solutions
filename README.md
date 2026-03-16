@@ -123,6 +123,7 @@ Each folder contains:
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3248-snake-in-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
@@ -201,6 +202,7 @@ Each folder contains:
 | [2325-decode-the-message](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
