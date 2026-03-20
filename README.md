@@ -74,6 +74,7 @@ Each folder contains:
 | [0643-maximum-average-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0804-unique-morse-code-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -193,6 +194,7 @@ Each folder contains:
 | [0535-encode-and-decode-tinyurl](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -363,6 +365,7 @@ Each folder contains:
 | [0696-count-binary-substrings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
