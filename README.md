@@ -145,6 +145,7 @@ Each folder contains:
 | [3637-trionic-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
