@@ -131,6 +131,7 @@ Each folder contains:
 | [2906-construct-product-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -191,6 +192,7 @@ Each folder contains:
 | [2373-largest-local-values-in-a-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -224,6 +226,7 @@ Each folder contains:
 | [2325-decode-the-message](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -506,6 +509,7 @@ Each folder contains:
 | [2485-find-the-pivot-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
