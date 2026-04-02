@@ -152,6 +152,7 @@ Each folder contains:
 | [3683-earliest-time-to-finish-one-task](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Each folder contains:
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
@@ -288,6 +290,7 @@ Each folder contains:
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
