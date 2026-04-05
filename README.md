@@ -652,6 +652,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -688,6 +689,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
