@@ -83,6 +83,7 @@ Each folder contains:
 | [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0874-walking-robot-simulation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -217,6 +218,7 @@ Each folder contains:
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0874-walking-robot-simulation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -576,6 +578,7 @@ Each folder contains:
 | [0657-robot-return-to-origin](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0874-walking-robot-simulation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
