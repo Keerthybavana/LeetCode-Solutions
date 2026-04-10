@@ -158,6 +158,7 @@ Each folder contains:
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Each folder contains:
 | [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
