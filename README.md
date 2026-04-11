@@ -126,6 +126,7 @@ Each folder contains:
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
