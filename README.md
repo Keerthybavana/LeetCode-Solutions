@@ -674,6 +674,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -712,6 +713,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
