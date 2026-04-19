@@ -115,6 +115,7 @@ Each folder contains:
 | [1816-truncate-sentence](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -184,6 +185,7 @@ Each folder contains:
 | [0888-fair-candy-swap](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Matrix
 |  |
@@ -269,6 +271,7 @@ Each folder contains:
 | [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
