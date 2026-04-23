@@ -136,6 +136,7 @@ Each folder contains:
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2615-sum-of-distances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -245,6 +246,7 @@ Each folder contains:
 | [2325-decode-the-message](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2615-sum-of-distances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -389,6 +391,7 @@ Each folder contains:
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
+| [2615-sum-of-distances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
