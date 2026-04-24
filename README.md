@@ -458,6 +458,7 @@ Each folder contains:
 | [2375-construct-smallest-number-from-di-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3110-score-of-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -507,6 +508,7 @@ Each folder contains:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2833-furthest-point-from-origin](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
