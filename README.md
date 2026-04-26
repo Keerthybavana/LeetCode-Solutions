@@ -148,6 +148,7 @@ Each folder contains:
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3248-snake-in-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
