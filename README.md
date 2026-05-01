@@ -82,6 +82,7 @@ Each folder contains:
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -204,6 +205,7 @@ Each folder contains:
 | [0073-set-matrix-zeroes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
@@ -581,6 +583,7 @@ Each folder contains:
 | [0316-remove-duplicate-letters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
