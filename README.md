@@ -275,6 +275,7 @@ Each folder contains:
 | [0016-3sum-closest](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -708,6 +709,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
