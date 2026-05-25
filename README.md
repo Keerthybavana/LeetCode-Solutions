@@ -179,6 +179,7 @@ Each folder contains:
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -673,6 +674,7 @@ Each folder contains:
 | [3498-reverse-degree-of-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
 | ------- |
