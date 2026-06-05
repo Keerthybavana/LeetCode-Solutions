@@ -110,6 +110,7 @@ Each folder contains:
 | [1470-shuffle-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1539-kth-missing-positive-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -205,6 +206,7 @@ Each folder contains:
 | [0888-fair-candy-swap](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3454-separate-squares-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
