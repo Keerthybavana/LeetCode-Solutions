@@ -51,6 +51,7 @@ Each folder contains:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -526,6 +527,7 @@ Each folder contains:
 | ------- |
 | [0029-divide-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
