@@ -182,6 +182,7 @@ Each folder contains:
 | [3643-flip-square-submatrix-vertically](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -646,6 +647,7 @@ Each folder contains:
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
