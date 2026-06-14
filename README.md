@@ -317,6 +317,7 @@ Each folder contains:
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -417,6 +418,7 @@ Each folder contains:
 | [0316-remove-duplicate-letters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
@@ -770,6 +772,7 @@ Each folder contains:
 | [0203-remove-linked-list-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
