@@ -243,6 +243,7 @@ Each folder contains:
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
@@ -453,6 +454,7 @@ Each folder contains:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -462,6 +464,7 @@ Each folder contains:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
