@@ -51,6 +51,7 @@ Each folder contains:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -251,6 +252,7 @@ Each folder contains:
 | [0037-sudoku-solver](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -858,4 +860,8 @@ Each folder contains:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
