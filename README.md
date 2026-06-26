@@ -820,6 +820,7 @@ Each folder contains:
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Graph Theory
