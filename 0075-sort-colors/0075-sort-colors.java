@@ -9,17 +9,6 @@ class Solution {
             else if(nums[i]==2) twocount++;
         }
         int k=0;
-        /*while(i<zerocount){
-            nums[i]=0;
-            i++;
-        }
-        while(i<onecount){
-            nums[i]=1;i++;
-        }
-        while(i<twocount){
-            nums[i]=2;i++;
-        }
-        */
         for(int i=0;i<zerocount;i++){
             nums[k]=0;k++;
         }
