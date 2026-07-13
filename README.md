@@ -386,6 +386,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
