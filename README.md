@@ -197,6 +197,7 @@ Each folder contains:
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3838-weighted-word-mapping](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -392,6 +393,7 @@ Each folder contains:
 | [3536-maximum-product-of-two-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -404,6 +406,7 @@ Each folder contains:
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -698,6 +701,7 @@ Each folder contains:
 | [2375-construct-smallest-number-from-di-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
 |  |
 | ------- |
