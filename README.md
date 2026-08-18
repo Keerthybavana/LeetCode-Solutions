@@ -641,6 +641,7 @@ Each folder contains:
 | [0204-count-primes](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -820,6 +821,7 @@ Each folder contains:
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
@@ -912,4 +914,20 @@ Each folder contains:
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
