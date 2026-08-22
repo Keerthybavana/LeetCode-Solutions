@@ -674,6 +674,7 @@ Each folder contains:
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
