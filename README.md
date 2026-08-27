@@ -97,6 +97,7 @@ Each folder contains:
 | [0867-transpose-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -340,6 +341,7 @@ Each folder contains:
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -376,6 +378,7 @@ Each folder contains:
 | [0761-special-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0888-fair-candy-swap](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
