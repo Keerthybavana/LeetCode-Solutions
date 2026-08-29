@@ -162,6 +162,7 @@ Each folder contains:
 | [2540-minimum-common-value](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2615-sum-of-distances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -561,6 +562,7 @@ Each folder contains:
 | [2375-construct-smallest-number-from-di-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -621,6 +623,7 @@ Each folder contains:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
