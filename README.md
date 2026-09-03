@@ -204,6 +204,7 @@ Each folder contains:
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3838-weighted-word-mapping](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -688,6 +689,7 @@ Each folder contains:
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Greedy
