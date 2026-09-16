@@ -664,6 +664,7 @@ Each folder contains:
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1154-day-of-the-year](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -828,6 +829,7 @@ Each folder contains:
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Segment Tree
 |  |
