@@ -143,6 +143,7 @@ Each folder contains:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2032-two-out-of-three](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -305,6 +306,7 @@ Each folder contains:
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2032-two-out-of-three](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2325-decode-the-message](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -607,6 +609,7 @@ Each folder contains:
 | [1486-xor-operation-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
+| [2032-two-out-of-three](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
