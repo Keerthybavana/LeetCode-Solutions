@@ -1,17 +1,38 @@
 class Solution {
     public List<Integer> twoOutOfThree(int[] nums1, int[] nums2, int[] nums3) {
-         boolean[] b1 = new boolean[101];
-        boolean[] b2 = new boolean[101];
-        boolean[] b3 = new boolean[101];
-          for (int num : nums1) b1[num] = true;
-        for (int num : nums2) b2[num] = true;
-        for (int num : nums3) b3[num] = true;
-        List<Integer> res = new ArrayList<>();
-
-        for (int i = 1; i <= 100; i++){
-            if((b1[i] || b2[i]) && (b2[i] || b3[i]) && (b3[i] || b1[i]))
-                res.add(i);
+        HashSet<Integer> set1=new HashSet<>();
+        HashSet<Integer> set2=new HashSet<>();
+        HashSet<Integer> set3=new HashSet<>();
+        for(int i=0;i<nums1.length;i++){
+            set1.add(nums1[i]);
         }
-        return res;
+        for(int i=0;i<nums2.length;i++){
+            set2.add(nums2[i]);
+        }
+        for(int i=0;i<nums3.length;i++){
+            set3.add(nums3[i]);
+        }
+        HashMap<Integer, Integer> map=new HashMap<>();
+        for(int num:set1){
+            map.put(num,map.getOrDefault(num,0)+1);
+        }
+        for(int num:set2){
+            map.put(num,map.getOrDefault(num,0)+1);
+        }
+        for(int num:set3){
+            map.put(num,map.getOrDefault(num,0)+1);
+        }
+        List<Integer> list=new ArrayList<>();
+        for(Map.Entry<Integer, Integer> entry:map.entrySet()){
+            if(entry.getValue()==3){
+                list.add(entry.getKey());
+            }
+        }
+        for(Map.Entry<Integer, Integer> entry:map.entrySet()){
+            if(entry.getValue()==2){
+                list.add(entry.getKey());
+            }
+        }
+        return list;
     }
 }
