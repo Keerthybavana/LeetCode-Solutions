@@ -85,6 +85,7 @@ Each folder contains:
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -287,6 +288,7 @@ Each folder contains:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0874-walking-robot-simulation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
