@@ -138,6 +138,7 @@ Each folder contains:
 | [1833-maximum-ice-cream-bars](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -257,6 +258,7 @@ Each folder contains:
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1861-rotating-the-box](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -356,6 +358,7 @@ Each folder contains:
 | [0922-sort-array-by-parity-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
