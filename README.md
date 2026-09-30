@@ -145,6 +145,7 @@ Each folder contains:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
