@@ -966,4 +966,8 @@ Each folder contains:
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
