@@ -157,6 +157,7 @@ Each folder contains:
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -315,6 +316,7 @@ Each folder contains:
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2325-decode-the-message](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -622,6 +624,7 @@ Each folder contains:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -646,6 +649,7 @@ Each folder contains:
 | [1704-determine-if-string-halves-are-alike](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
