@@ -110,6 +110,7 @@ Each folder contains:
 | [1260-shift-2d-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1314-matrix-block-sum](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
