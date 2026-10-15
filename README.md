@@ -685,6 +685,7 @@ Each folder contains:
 | [0263-ugly-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -875,6 +876,7 @@ Each folder contains:
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
