@@ -710,6 +710,7 @@ Each folder contains:
 | [2485-find-the-pivot-integer](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2652-sum-multiples](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
