@@ -554,6 +554,7 @@ Each folder contains:
 | [0535-encode-and-decode-tinyurl](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
