@@ -222,6 +222,7 @@ Each folder contains:
 | [3895-count-digit-appearances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -824,6 +825,7 @@ Each folder contains:
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Tree
 |  |
 | ------- |
