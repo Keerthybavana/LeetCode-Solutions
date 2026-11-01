@@ -151,6 +151,7 @@ Each folder contains:
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -323,6 +324,7 @@ Each folder contains:
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2325-decode-the-message](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -588,6 +590,7 @@ Each folder contains:
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1980-find-unique-binary-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -660,6 +663,7 @@ Each folder contains:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
