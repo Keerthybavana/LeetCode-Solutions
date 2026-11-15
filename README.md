@@ -348,6 +348,7 @@ Each folder contains:
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -529,6 +530,7 @@ Each folder contains:
 | [2574-left-and-right-sum-differences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
+| [3714-longest-balanced-substring-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
@@ -620,6 +622,7 @@ Each folder contains:
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
