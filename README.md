@@ -603,6 +603,7 @@ Each folder contains:
 | [2053-kth-distinct-string-in-an-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
