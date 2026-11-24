@@ -714,6 +714,7 @@ Each folder contains:
 | [0371-sum-of-two-integers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Keerthybavana/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
